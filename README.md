@@ -5,7 +5,7 @@
  
  🌱 I’m currently learning JavaScript 
 ```
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SoSoJigsaw.visitor-badge)
 
 <a href="https://github.com/SoSoJigsaw">
  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=SoSoJigsaw&show_icons=true&theme=dracula&line_height=27"/>
