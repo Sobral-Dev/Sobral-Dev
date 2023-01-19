@@ -2,7 +2,7 @@
 
  I was back-end developer all over the last two years, with <b>Python</b>, <b>Java</b> and <b>SQL</b> as my top languages
 
- seedling I’m currently learning <b>JavaScript</b>
+ 🌱 I’m currently learning <b>JavaScript</b>
  
  <br/>
  
