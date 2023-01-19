@@ -1,6 +1,7 @@
-### Hi there, I’m Felipe Sobral 👋
+### Hi there, I’m Felipe Sobral! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
- I was back-end developer all over the last two years, with Python, Java and SQL as my top languages
+
+ I was back-end developer all over the last two years, with <b>Python</b>, <b>Java</b> and <b>SQL</b> as my top languages
 
  🌱 I’m currently learning JavaScript
  
