@@ -2,7 +2,11 @@
 
  🌱 I’m currently learning JavaScript 
 
-[![Anurag's GitHub stats](https://github-readme-stats-sosojigsaw.vercel.app/api?username=SoSoJigsaw)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats-sosojigsaw.vercel.app/api?username=SoSoJigsaw)
+
+![Top Langs](https://github-readme-stats-sosojigsaw.vercel.app/api/top-langs/?username=SoSoJigsaw&theme=tokyonight)
+
+
 
 
 
