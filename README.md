@@ -2,9 +2,12 @@
 
  🌱 I’m currently learning JavaScript 
 
-![My GitHub stats](https://github-readme-stats-sosojigsaw.vercel.app/api?username=SoSoJigsaw)
-
-![Top Langs](https://github-readme-stats-sosojigsaw.vercel.app/api/top-langs/?username=SoSoJigsaw&theme=tokyonight)
+<div>
+ <a href="https://github.com/SoSoJigsaw">
+  
+  <img height="180em" src="https://github-readme-stats-sosojigsaw.vercel.app/api?username=SoSoJigsaw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sosojigsaw.vercel.app/api/top-langs/?username=SoSoJigsaw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>  
 
 
 
