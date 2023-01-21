@@ -40,7 +40,7 @@
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>   
 <a href="https://selenium-python.readthedocs.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" alt="Spring" height="50" /></a>  
 </div>
- <a href="https://www.sqlalchemy.org/" target="_blank"><img style="margin: 10px" src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" alt="Spring" height="50" /></a>  
+ <a href="https://www.sqlalchemy.org/" target="_blank"><img style="margin: 10px" src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" alt="Spring" height="25" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
