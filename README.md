@@ -2,7 +2,7 @@
 
  I've been a full stack developer for the past three years, with <b>Python</b>, <b>Java</b>, <b>Type/Java Script</b>, plus <b>PL/SQL</b> as my top languages.
 
-🌱 I’m currently learning Machine Learning and Deep Learning algorithms to make predictions, as well as LLMs pipelines to perform NLP tasks. 
+🌱 I’m currently learning ML and DL algorithms to make predictions, as well as LLMs pipelines to perform NLP tasks. 
  
 <br/>  
  
