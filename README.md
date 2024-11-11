@@ -1,8 +1,8 @@
-### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey Dev and Community! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
- I've been a back-end developer for the past two years, with <b>Python</b>, <b>Java</b> and <b>SQL</b> as my top languages
+ I've been a full stack developer for the past three years, with <b>Python</b>, <b>Java</b>, Type/Java Script, plus <b>PL/SQL</b> as my top languages.
 
-🌱 I’m currently learning <b>JavaScript</b>
+🌱 I’m currently learning Machine Learning and Deep Learning algorithms to make predictions, as well as LLMs pipelines to perform NLP tasks. 
  
 <br/>  
  
