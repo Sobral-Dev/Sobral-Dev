@@ -1,16 +1,15 @@
 ### Hey Dev and Community! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
- I've been a full stack developer for the past three years, with <b>Python</b>, <b>Java</b>, <b>Type/Java Script</b>, plus <b>PL/SQL</b> as my top languages.
+ I've been a full stack developer for the past four years, with <b>Python</b>, <b>Java</b>, <b>Type/Java Script</b>, plus <b>PL/SQL</b> as my top languages.
 
 🌱 I’m currently learning ML and DL algorithms to make predictions, as well as LLMs pipelines to perform NLP tasks. 
  
-<br/>  
- 
-<div align="left">
-<a href="https://www.linkedin.com/in/sosojigsaw/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
-</div>  
+<br>  
+
+[![GitHub Streak](https://github-readme-streak-stats-inky-psi.vercel.app?user=Sobral-Dev&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+<br>
+![Languages](https://github.com/Sobral-Dev/github-stats-transparent/blob/output/generated/languages.svg)
+![Overview](https://github.com/Sobral-Dev/github-stats-transparent/blob/output/generated/overview.svg)
 
 
 ## My Skill Set  
@@ -64,13 +63,6 @@
 
 
 
-## Github Stats
-<div>
- <a href="https://github.com/SoSoJigsaw">
-  
-  <img height="145em" src="https://github-readme-stats-sosojigsaw.vercel.app/api?username=SoSoJigsaw&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats-sosojigsaw.vercel.app/api/top-langs/?username=SoSoJigsaw&layout=compact&langs_count=16&theme=gruvbox"/>
-</div>  
 
 
 
