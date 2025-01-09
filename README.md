@@ -2,10 +2,14 @@
 
  I've been a full stack developer for the past four years, with <b>Python</b>, <b>Java</b>, <b>Type/Java Script</b>, plus <b>PL/SQL</b> as my top languages.
 
+ ---
+
 🌱 I’m currently learning ML and DL algorithms to make predictions, as well as LLMs pipelines to perform NLP tasks. 
  
 <br>  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sobral-Dev&rank=-?&column=-1&theme=tokyonight&no-bg=true&margin-w=11)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 [![GitHub Streak](https://github-readme-streak-stats-inky-psi.vercel.app?user=Sobral-Dev&theme=tokyonight&hide_border=true&border_radius=10&card_width=720)](https://git.io/streak-stats)
 <br>
 ![Overview](https://github.com/Sobral-Dev/github-stats-transparent/blob/output/generated/overview.svg)
