@@ -10,8 +10,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sobral-Dev&rank=-?&column=-1&theme=tokyonight&no-bg=true&margin-w=11)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
+
 [![GitHub Streak](https://github-readme-streak-stats-inky-psi.vercel.app?user=Sobral-Dev&theme=tokyonight&hide_border=true&border_radius=10&card_width=720)](https://git.io/streak-stats)
 <br>
+
 ![Overview](https://github.com/Sobral-Dev/github-stats-transparent/blob/output/generated/overview.svg)
 ![Languages](https://github.com/Sobral-Dev/github-stats-transparent/blob/output/generated/languages.svg)
 
