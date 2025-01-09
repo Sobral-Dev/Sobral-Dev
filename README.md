@@ -6,10 +6,10 @@
  
 <br>  
 
-[![GitHub Streak](https://github-readme-streak-stats-inky-psi.vercel.app?user=Sobral-Dev&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-inky-psi.vercel.app?user=Sobral-Dev&theme=tokyonight&hide_border=true&border_radius=10&card_width=720)](https://git.io/streak-stats)
 <br>
-![Languages](https://github.com/Sobral-Dev/github-stats-transparent/blob/output/generated/languages.svg)
 ![Overview](https://github.com/Sobral-Dev/github-stats-transparent/blob/output/generated/overview.svg)
+![Languages](https://github.com/Sobral-Dev/github-stats-transparent/blob/output/generated/languages.svg)
 
 
 ## My Skill Set  
